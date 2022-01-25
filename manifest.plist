@@ -17,11 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>ios bundlieId</string>
+                    <string>com.fprpg.middle.demo1</string>
                     <key>bundle-version</key>
                     <string>0.1</string>
                     <key>kind</key>
                     <string>software</string>
+                    <key>platform-identifier</key>
+                    <string>com.apple.platform.iphoneos</string>
                     <key>title</key>
                     <string>l_client</string>
                 </dict>
